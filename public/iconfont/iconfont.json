@@ -1,0 +1,58 @@
+{
+  "id": "3513721",
+  "name": "smart-home",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "智能家居，全能遥控",
+  "glyphs": [
+    {
+      "icon_id": "2076385",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e8c1",
+      "unicode_decimal": 59585
+    },
+    {
+      "icon_id": "1304889",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "2076307",
+      "name": " 台灯",
+      "font_class": "taideng",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "4988495",
+      "name": "空调-01",
+      "font_class": "kongtiao-",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "5071301",
+      "name": "浴室用品",
+      "font_class": "yushiyongpin",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "5650075",
+      "name": "热水器",
+      "font_class": "yinshuiji-",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "20810711",
+      "name": "客厅-1",
+      "font_class": "keting-1",
+      "unicode": "e791",
+      "unicode_decimal": 59281
+    }
+  ]
+}
