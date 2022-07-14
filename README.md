@@ -1,23 +1,17 @@
-##### Vite 构建项目步骤
-
-###### 初始化项目
-这里采用 `vue3 + typescript` 选项
-
-```
-yarn vite
-```
-执行命令后，分别选择框架 vue 和模版 vue-ts，加下来进入到项目 `yarn` 就可以了
-
-###### 安装路由
-```
-yarn add vue-router
-```
-
-###### 安装组件库
-```
-vant@3
-```
-###### 安装组件库按需引入，切配置
-```
-yarn add vite-plugin-style-import -D
-```
+##### 项目名称
+  `智能家居` 移动端
+  
+##### 项目描述
+  致力于智能家居的体验，实现场景及智能设备自由搭配体验。
+  对家庭场景可划分，如 客厅、浴室、厨房等，
+  对每种场景下智能设备可划分，如 灯光、空调、风扇、热水器等，
+  
+##### 项目描述
+  本项目采用`Vite`构建，使用`Vue3`框架，组件库选择`Vant`，语言规范选择`TypeScript`，路由`Vur-Router`、接口`Axios` 、数据持久化`Pinia`，主题使用 `sass` 变量进行替换。
+  
+  开发工具采用`VSCode`，开发中使用`Eslint`、`Prettier`约束代码，提交时使用`husky`,`lint-staged`保证提交代码的质量。
+  
+  由于是移动端项目，自适应使用`rem`使用插件`postcss-pxtorem`进行转换。
+  
+  项目自动集成`modules`下的`routes`、`store`配置。
+  
